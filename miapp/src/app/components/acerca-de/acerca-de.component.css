@@ -1,0 +1,39 @@
+.row {
+    padding: 15px;
+}
+
+div {
+    background-color: #a1b5cb;
+    text-align: center;
+}
+
+/*Nombre ID*/
+
+#nombre{
+    font-weight: bold;
+    margin-top: 30%;
+    margin-left: 10px;
+}
+
+/*Foto de perfil*/
+@media (min-width: 576px){
+    #foto-perfil{
+        position: absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 2px 2px 2px grey;
+        left: 3%;
+        top: 600px;
+    }
+}
+
+@media (max-width: 575px){
+    #foto-perfil{
+        position: absolute;
+        width: 40%;
+        border-radius: 100%;
+        box-shadow: 2px 2px 2px grey;
+        left: 30%;
+        top: 600px;
+    }
+}
