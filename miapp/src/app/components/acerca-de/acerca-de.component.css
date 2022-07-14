@@ -7,12 +7,17 @@ div {
     text-align: center;
 }
 
+h1{
+    font-family: 'Pacifico', cursive;
+}
+
 /*Nombre ID*/
 
 #nombre{
     font-weight: bold;
     margin-top: 30%;
     margin-left: 10px;
+    font-family: 'Pacifico', cursive;
 }
 
 /*Foto de perfil*/

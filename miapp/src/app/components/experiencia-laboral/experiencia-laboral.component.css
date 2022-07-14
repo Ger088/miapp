@@ -1,0 +1,17 @@
+.row{
+    padding: 25px;
+}
+
+div{
+    background-color: #a1b5cb;
+}
+
+h2, h4{
+    display: inline;
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+    margin-bottom: 20px;
+}
+
