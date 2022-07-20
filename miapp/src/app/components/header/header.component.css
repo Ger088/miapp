@@ -2,7 +2,8 @@ div {
     background-color: #a1b5cd; 
 }
 
-app-redes{
-    float: right;
+
+.redes{
+    width: 50px;
     margin-top: 25px;
 }

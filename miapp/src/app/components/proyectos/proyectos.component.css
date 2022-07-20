@@ -1,8 +1,25 @@
 .row {
     background-color: #a1b5cb;
+    padding: 25px;
 }
 
 h1{
     font-family: 'Pacifico', cursive;
-    margin-bottom: 20px;
+}
+
+h2{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: bold;
+}
+.contenedor {
+    width: auto;
+}
+
+.izquierda, .derecha{
+    display: inline-block;
+    text-align: justify;
+}
+
+.sombra {
+    box-shadow: 10px 10px 10px black;
 }

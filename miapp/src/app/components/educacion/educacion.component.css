@@ -10,7 +10,16 @@ h2, h4{
     display: inline;
 }
 
+h2 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: bold;
+}
+
 h1{
     font-family: 'Pacifico', cursive;
     margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: square;
 }
